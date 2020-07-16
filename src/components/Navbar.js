@@ -5,7 +5,8 @@ export default function Navbar(props) {
     return (
         <div className="row">
             <div className="col-md-6">
-                <h1 className="title">Weather Today</h1>
+                <h1 className="title">Weather Today </h1>
+                                             <ul> By: Slava Frolov</ul>
             </div>
 
             <div className="col-md-6">
